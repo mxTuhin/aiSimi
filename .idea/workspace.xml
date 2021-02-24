@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfeb9a3f-00d1-400f-b080-cbbd76fdedef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZexvZK9f8mpefc0eAZrnWRwXnc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/BRACU/LearnPython" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.loop">
+    <configuration name="loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aiSIMI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aiSIMI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nltkTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aiSIMI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nltkTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predictor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aiSIMI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predictor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aiSIMI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.loop" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.trainer" />
+        <item itemvalue="Python.predictor" />
+        <item itemvalue="Python.nltkTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfeb9a3f-00d1-400f-b080-cbbd76fdedef" name="Default Changelist" comment="" />
+      <created>1566235614404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566235614404</updated>
+      <workItem from="1566235616318" duration="12717000" />
+      <workItem from="1566456066521" duration="2101000" />
+      <workItem from="1566815074716" duration="8787000" />
+      <workItem from="1566981972286" duration="1402000" />
+      <workItem from="1567236960399" duration="12000" />
+      <workItem from="1568020134628" duration="6396000" />
+      <workItem from="1575343468829" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31612000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="294" key="FileChooserDialogImpl" timestamp="1585294517859">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2660" y="294" key="FileChooserDialogImpl/85.0.1835.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585294517859" />
+    <state width="1899" height="336" key="GridCell.Tab.0.bottom" timestamp="1585294519024">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="336" key="GridCell.Tab.0.bottom/85.0.1835.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585294519024" />
+    <state width="1899" height="336" key="GridCell.Tab.0.center" timestamp="1585294519024">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="336" key="GridCell.Tab.0.center/85.0.1835.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585294519024" />
+    <state width="1899" height="336" key="GridCell.Tab.0.left" timestamp="1585294519024">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="336" key="GridCell.Tab.0.left/85.0.1835.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585294519024" />
+    <state width="1899" height="336" key="GridCell.Tab.0.right" timestamp="1585294519024">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="336" key="GridCell.Tab.0.right/85.0.1835.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585294519024" />
+    <state width="1899" height="363" key="GridCell.Tab.1.bottom" timestamp="1585247941483">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="363" key="GridCell.Tab.1.bottom/85.0.1835.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585247941483" />
+    <state width="1899" height="363" key="GridCell.Tab.1.center" timestamp="1585247941483">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="363" key="GridCell.Tab.1.center/85.0.1835.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585247941483" />
+    <state width="1899" height="363" key="GridCell.Tab.1.left" timestamp="1585247941483">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="363" key="GridCell.Tab.1.left/85.0.1835.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585247941483" />
+    <state width="1899" height="363" key="GridCell.Tab.1.right" timestamp="1585247941483">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="363" key="GridCell.Tab.1.right/85.0.1835.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585247941483" />
+    <state x="2381" y="182" key="SettingsEditor" timestamp="1585214221373">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2381" y="182" key="SettingsEditor/85.0.1835.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585214221373" />
+  </component>
+</project>

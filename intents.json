@@ -1,0 +1,1541 @@
+{"intents": [
+        {"tag":"prithibirSundorChele",
+  "patterns":["পৃথিবীর সবচেয়ে সুন্দর ছেলে কে?"],
+  "responses":["আমার প্রিয়তম"],
+  "context_set":[""]
+},
+
+{"tag":"greetings",
+  "patterns":["এইযে শুনছেন","হ্যালো","আছো","শুনো","হাই সিমি", "হাই", "হ্যালো সিমি", "সিমি"],
+  "responses":["জ্বি বলুন","হ্যা বলো","কি","কি বলবা তাড়াতাড়ি বলো"],
+  "context_set":[""]
+},
+
+{"tag":"deepGreetings",
+  "patterns":["শুনোনা"],
+  "responses":["বলোনা"],
+  "context_set":[""]
+},
+
+{"tag":"prioKhabar",
+  "patterns":["তোমার প্রিয় খাবার কি ?"],
+  "responses":["পিজ্জা"],
+  "context_set":[""]
+},
+
+{"tag":"GK1",
+  "patterns":["বাংলাদেশের প্রথম প্রেসিডেন্টের নাম কী ?"],
+  "responses":["বঙ্গবন্ধু শেখ মুজিবুর রহমান"],
+  "context_set":[""]
+},
+
+{"tag":"GK_KhelnaAbishkar",
+  "patterns":["খেলনা কে আবিষ্কার করেন?"],
+  "responses":["খেলনার সৃষ্টি প্রাগৈতিহাসিক কালে"],
+  "context_set":[""]
+},
+
+{"tag":"bolbeNaKeno",
+  "patterns":["বলবে না কেনো"],
+  "responses":["আমার ইচ্ছা"," তুমি তো আমাকে বুঝোই না "],
+  "context_set":[""]
+},
+
+{"tag":"kiKoro",
+  "patterns":["কি করো"],
+  "responses":["কিছু না"," বলবো না"," কি বলবা তাড়াতাড়ি বলো"],
+  "context_set":[""]
+},
+
+{"tag":"boiPora",
+  "patterns":["কোন বই পড়"],
+  "responses":["হুমায়ুন আহমেদ এর লেখা দেবী"],
+  "context_set":[""]
+},
+
+{"tag":"poraLekhaSesh",
+  "patterns":["পড়ালেখা কেমন চলছে? "],
+  "responses":["ছেড়ে দিয়েছি। চায়ের দোকান দিবো কিছুদিনের মধ্যেই"],
+  "context_set":[""]
+},
+
+{"tag":"tuhinJalay",
+  "patterns":["তুহিন ভাই বেশি জ্বালায়? "],
+  "responses":["হ্যা ইচ্ছা করে জ্বালায়"],
+  "context_set":[""]
+},
+
+{"tag":"kemonAcho",
+  "patterns":["কেমন আছো", "কেমন আছেন", "আপনি কেমন আছেন", "সিমি কেমন আছো", "সিমি কেমন আছেন"],
+  "responses":["ভালো নেই"," বলবো না"," ভালো আছি"],
+  "context_set":[""]
+},
+
+{"tag":"primeMinisterBD",
+  "patterns":["বাংলাদেশের প্রধানমন্ত্রী কে", "বাংলাদেশ এর প্রধানমন্ত্রী", "বাংলাদেশ প্রধানমন্ত্রী"],
+  "responses":["মাননীয় প্রধানমন্ত্রী শেখ হাসিনা"],
+  "context_set":[""]
+},
+{"tag":"primeMinistersFather",
+  "patterns":["শেখ হাসিনার বাবার নাম কি", "শেখ হাসিনার বাবা কে", "প্রধানমন্ত্রীর বাবার নাম কি"],
+  "responses":["বঙ্গবন্ধু শেখ মুজিবুর রহমান"],
+  "context_set":[""]
+},
+
+{"tag":"whoIsMujib",
+  "patterns":["বঙ্গবন্ধু শেখ মুজিবুর রহমান কে"],
+  "responses":["বঙ্গবন্ধু শেখ মুজিবুর রহমান বাংলাদেশের জাতীয় পিতা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency0",
+  "patterns":["বাংলাদেশ  মুদ্রা"],
+  "responses":["টাকা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency1",
+  "patterns":[" পাকিস্তান  মুদ্রা"],
+  "responses":[" রূপী"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency2",
+  "patterns":[" ভারত  মুদ্রা"],
+  "responses":[" রূপী"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency3",
+  "patterns":[" ভুটান  মুদ্রা"],
+  "responses":[" গুলট্রাম"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency4",
+  "patterns":[" শ্রীলংকা  মুদ্রা"],
+  "responses":[" রূপী"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency5",
+  "patterns":[" মালদ্বীপ  মুদ্রা"],
+  "responses":[" রূপীহা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency6",
+  "patterns":[" নেপাল  মুদ্রা"],
+  "responses":[" রূপী"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency7",
+  "patterns":[" আফগানিস্তান  মুদ্রা"],
+  "responses":[" আফগানী"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency8",
+  "patterns":[" মায়ানমার  মুদ্রা"],
+  "responses":[" কিয়াট"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency9",
+  "patterns":[" ভিয়েতনাম  মুদ্রা"],
+  "responses":[" ডং"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency10",
+  "patterns":[" থাইল্যান্ড  মুদ্রা"],
+  "responses":[" বাথ"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency11",
+  "patterns":[" কম্বোডিয়া  মুদ্রা"],
+  "responses":[" রিয়াল"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency12",
+  "patterns":[" পূর্ব তিমুর  মুদ্রা"],
+  "responses":[" ডলার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency13",
+  "patterns":[" ইন্দোনেশিয়া  মুদ্রা"],
+  "responses":[" রূপীহা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency14",
+  "patterns":[" মালয়েশিয়া  মুদ্রা"],
+  "responses":[" রিংগিট"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency15",
+  "patterns":[" সৌদি আরব  মুদ্রা"],
+  "responses":[" রিয়াল"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency16",
+  "patterns":[" ইরান  মুদ্রা"],
+  "responses":[" রিয়াল"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency17",
+  "patterns":[" ইরাক  মুদ্রা"],
+  "responses":[" দিনার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency18",
+  "patterns":[" ইয়েমেন  মুদ্রা"],
+  "responses":[" রিয়াল"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency19",
+  "patterns":[" ইসরাইল  মুদ্রা"],
+  "responses":[" শেকেল"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency20",
+  "patterns":[" ওমান  মুদ্রা"],
+  "responses":[" রিয়াল"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency21",
+  "patterns":[" কাতার  মুদ্রা"],
+  "responses":[" রিয়ার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency22",
+  "patterns":[" জর্ডান  মুদ্রা"],
+  "responses":[" দিনার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency23",
+  "patterns":[" তুরস্ক  মুদ্রা"],
+  "responses":[" লিরা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency24",
+  "patterns":[" সিরিয়া  মুদ্রা"],
+  "responses":[" পাউন্ড"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency25",
+  "patterns":[" উত্তর কোরিয়া  মুদ্রা"],
+  "responses":[" ওয়ান"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency26",
+  "patterns":[" দক্ষিন কোরিয়া  মুদ্রা"],
+  "responses":[" ওয়ান"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency27",
+  "patterns":[" চীন  মুদ্রা"],
+  "responses":[" ইউয়ান"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency28",
+  "patterns":[" জাপান  মুদ্রা"],
+  "responses":[" ইয়েন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency29",
+  "patterns":[" তুর্কমেনিস্তান  মুদ্রা"],
+  "responses":[" মানাত"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency30",
+  "patterns":[" উজবেকিস্তান  মুদ্রা"],
+  "responses":[" সোম"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency31",
+  "patterns":[" কাজাখস্তান  মুদ্রা"],
+  "responses":[" টেনডো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency32",
+  "patterns":[" জার্মানি  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency33",
+  "patterns":[" পোল্যান্ড  মুদ্রা"],
+  "responses":[" জলটি"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency34",
+  "patterns":[" আলবেনিয়া  মুদ্রা"],
+  "responses":[" লেক"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency35",
+  "patterns":[" বুলগেরিয়া  মুদ্রা"],
+  "responses":[" লেভ"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency36",
+  "patterns":[" সার্বিয়া  মুদ্রা"],
+  "responses":[" দিনার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency37",
+  "patterns":[" মন্টিনিগ্রো  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency38",
+  "patterns":[" বসনিয়া  মুদ্রা"],
+  "responses":[" দিনার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency39",
+  "patterns":[" স্লোভাকিয়া  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency40",
+  "patterns":[" স্লোভেনিয়া  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency41",
+  "patterns":[" কসোভো  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency42",
+  "patterns":[" অষ্ট্রিয়া  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency43",
+  "patterns":[" আয়ারল্যান্ড  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency44",
+  "patterns":[" ইতালি  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency45",
+  "patterns":[" ভ্যাটিক্যান  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency46",
+  "patterns":[" গ্রীস  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency47",
+  "patterns":[" নেদারল্যান্ড  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency48",
+  "patterns":[" পর্তুগাল  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency49",
+  "patterns":[" ফিনল্যান্ড  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency50",
+  "patterns":[" ফ্রান্স  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency51",
+  "patterns":[" বেলজিয়াম  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency52",
+  "patterns":[" মাল্টা  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency53",
+  "patterns":[" সাইপ্রাস  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency54",
+  "patterns":[" স্পেন  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency55",
+  "patterns":[" লুক্সোমবার্গ  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency56",
+  "patterns":[" এস্তোনিয়া  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency57",
+  "patterns":[" মোনাকো  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency58",
+  "patterns":[" লাটভিয়া  মুদ্রা"],
+  "responses":[" ইউরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency59",
+  "patterns":[" আইসল্যান্ড  মুদ্রা"],
+  "responses":[" ক্রোনা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency60",
+  "patterns":[" ডেনমার্ক  মুদ্রা"],
+  "responses":[" ক্রোনা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency61",
+  "patterns":[" নরওয়ে  মুদ্রা"],
+  "responses":[" ক্রোনা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency62",
+  "patterns":[" বৃটেন  মুদ্রা"],
+  "responses":[" পাউন্ড স্টার্লিং"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency63",
+  "patterns":[" রাশিয়া  মুদ্রা"],
+  "responses":[" রুবল"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency64",
+  "patterns":[" সুইডেন  মুদ্রা"],
+  "responses":[" ক্রোনা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency65",
+  "patterns":[" তুরস্ক  মুদ্রা"],
+  "responses":[" লিরা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency66",
+  "patterns":[" লিবিয়া  মুদ্রা"],
+  "responses":[" দিনার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency67",
+  "patterns":[" মিশর  মুদ্রা"],
+  "responses":[" পাউন্ড"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency68",
+  "patterns":[" নাইজেরিয়া  মুদ্রা"],
+  "responses":[" নাইরো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency69",
+  "patterns":[" সুদান  মুদ্রা"],
+  "responses":[" পাউন্ড"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency70",
+  "patterns":[" কেনিয়া  মুদ্রা"],
+  "responses":[" শিলিং"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency71",
+  "patterns":[" মোজাম্বিক  মুদ্রা"],
+  "responses":[" মেটিকাল"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency72",
+  "patterns":[" মাদাগাস্কার  মুদ্রা"],
+  "responses":[" ফ্রাংক"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency73",
+  "patterns":[" মালি  মুদ্রা"],
+  "responses":[" ফ্রাংক"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency74",
+  "patterns":[" মৌরিতানিয়া  মুদ্রা"],
+  "responses":[" উজুইয়া"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency75",
+  "patterns":[" নামিবিয়া  মুদ্রা"],
+  "responses":[" র্যান্ড"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency76",
+  "patterns":[" সোয়াজিল্যান্ড  মুদ্রা"],
+  "responses":[" লিলানগিনি"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency77",
+  "patterns":[" তাঞ্জানিয়া  মুদ্রা"],
+  "responses":[" শিলিং"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency78",
+  "patterns":[" জিম্বাবুয়ে  মুদ্রা"],
+  "responses":[" ডলার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency79",
+  "patterns":[" কঙ্গো  মুদ্রা"],
+  "responses":[" জায়ার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency80",
+  "patterns":[" মরক্কো  মুদ্রা"],
+  "responses":[" দিরহাম"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency81",
+  "patterns":[" উগান্ডা  মুদ্রা"],
+  "responses":[" শিলিং"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency82",
+  "patterns":[" মরিসাস  মুদ্রা"],
+  "responses":[" রুপী"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency83",
+  "patterns":[" দক্ষিণ আফ্রিকা  মুদ্রা"],
+  "responses":[" র্যান্ড"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency84",
+  "patterns":[" ঘানা  মুদ্রা"],
+  "responses":[" সেডি"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency85",
+  "patterns":[" আইভরিকোস্ট  মুদ্রা"],
+  "responses":[" ফ্রাংক"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency86",
+  "patterns":[" আলজেরিয়া  মুদ্রা"],
+  "responses":[" দিনার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency87",
+  "patterns":[" সোমালিয়া  মুদ্রা"],
+  "responses":[" শিলিং"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency88",
+  "patterns":[" সেনেগাল  মুদ্রা"],
+  "responses":[" ফ্রাংক"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency89",
+  "patterns":[" তিউনিসিয়া  মুদ্রা"],
+  "responses":[" দিনার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency90",
+  "patterns":[" টোগো  মুদ্রা"],
+  "responses":[" ফ্রাংক"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency91",
+  "patterns":[" সিয়েরালিয়ান  মুদ্রা"],
+  "responses":[" লিওন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency92",
+  "patterns":[" ইথিওপিয়া  মুদ্রা"],
+  "responses":[" বির"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency93",
+  "patterns":[" জিবুতি  মুদ্রা"],
+  "responses":[" ফ্রাংক"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency94",
+  "patterns":[" যুক্তরাষ্ট্র  মুদ্রা"],
+  "responses":[" ডলার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency95",
+  "patterns":[" কানাডা  মুদ্রা"],
+  "responses":[" কানডিয়ান ডলার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency96",
+  "patterns":[" মেক্সিকো  মুদ্রা"],
+  "responses":[" পেসো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency97",
+  "patterns":[" হন্ডুরাস  মুদ্রা"],
+  "responses":[" ল্যামপিয়া"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency98",
+  "patterns":[" কোস্টারিকা  মুদ্রা"],
+  "responses":[" কোলন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency99",
+  "patterns":[" কিউবা  মুদ্রা"],
+  "responses":[" পেসো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency100",
+  "patterns":[" ত্রিনিদাদ ও টোবাগো  মুদ্রা"],
+  "responses":[" ডলার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency101",
+  "patterns":[" বারবাডোজ  মুদ্রা"],
+  "responses":[" ডলার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency102",
+  "patterns":[" জ্যামাইকা  মুদ্রা"],
+  "responses":[" ডলার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency103",
+  "patterns":[" হাইতি  মুদ্রা"],
+  "responses":[" গুর্ডে"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency104",
+  "patterns":[" চিলি  মুদ্রা"],
+  "responses":[" পেসো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency105",
+  "patterns":[" ব্রাজিল  মুদ্রা"],
+  "responses":[" ব্রাজিলিয়ান রিয়াল"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency106",
+  "patterns":[" উরুগুয়ে  মুদ্রা"],
+  "responses":[" পেসো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency107",
+  "patterns":[" প্যারাগুয়ে  মুদ্রা"],
+  "responses":[" গুয়রানি"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency108",
+  "patterns":[" পেরু  মুদ্রা"],
+  "responses":[" নিউভু সোল"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency109",
+  "patterns":[" গায়ানা  মুদ্রা"],
+  "responses":[" গায়ানা ডলার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency110",
+  "patterns":[" কলম্বিয়া  মুদ্রা"],
+  "responses":[" পেসো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency111",
+  "patterns":[" ভেনিজুয়েলা  মুদ্রা"],
+  "responses":[" বলিভার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency112",
+  "patterns":[" আর্জেন্টিনা  মুদ্রা"],
+  "responses":["পেসো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency113",
+  "patterns":[" সুরিনাম  মুদ্রা"],
+  "responses":[" পেসো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency114",
+  "patterns":[" ইকুয়েডর  মুদ্রা"],
+  "responses":[" মার্কিন ডলার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency115",
+  "patterns":[" বলিভিয়া  মুদ্রা"],
+  "responses":[" বলিভিয়েনো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency116",
+  "patterns":[" অস্ট্রেলিয়া  মুদ্রা"],
+  "responses":[" অস্ট্রেলিয়ান ডলার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency117",
+  "patterns":[" নিউজিল্যান্ড  মুদ্রা"],
+  "responses":[" ডলার"],
+  "context_set":[""]
+},
+
+{"tag":"GKCurrency118",
+  "patterns":[" ফিজি  মুদ্রা "],
+  "responses":[" ডলার "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital0",
+  "patterns":["বাংলাদেশ এর রাজধানী"],
+  "responses":["ঢাকা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital1",
+  "patterns":[" পাকিস্তান এর রাজধানী"],
+  "responses":[" ইসলামাবাদ"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital2",
+  "patterns":[" ভারত এর রাজধানী"],
+  "responses":[" নয়াদিল্লী"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital3",
+  "patterns":[" ভুটান এর রাজধানী"],
+  "responses":[" থিম্পু "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital4",
+  "patterns":[" শ্রীলংকা এর রাজধানী"],
+  "responses":[" জায়াবর্ধনপুর কোর্টে "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital5",
+  "patterns":[" মালদ্বীপ এর রাজধানী"],
+  "responses":[" মালে "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital6",
+  "patterns":[" নেপাল এর রাজধানী"],
+  "responses":[" কাঠমুন্ডু "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital7",
+  "patterns":[" আফগানিস্তান এর রাজধানী"],
+  "responses":[" কাবুল "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital8",
+  "patterns":[" মায়ানমার এর রাজধানী"],
+  "responses":[" নাইপিদাও"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital9",
+  "patterns":[" ভিয়েতনাম এর রাজধানী"],
+  "responses":[" হ্যানয় "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital10",
+  "patterns":[" থাইল্যান্ড এর রাজধানী"],
+  "responses":[" ব্যাংকক "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital11",
+  "patterns":[" কম্বোডিয়া এর রাজধানী"],
+  "responses":[" নমপেন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital12",
+  "patterns":[" পূর্ব তিমুর এর রাজধানী"],
+  "responses":[" দিলি "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital13",
+  "patterns":[" ইন্দোনেশিয়া এর রাজধানী"],
+  "responses":[" জাকার্তা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital14",
+  "patterns":[" মালয়েশিয়া এর রাজধানী"],
+  "responses":[" কুয়ালালামপুর"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital15",
+  "patterns":[" সৌদি আরব এর রাজধানী"],
+  "responses":[" রিয়াদ "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital16",
+  "patterns":[" ইরান এর রাজধানী"],
+  "responses":[" তেহরান"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital17",
+  "patterns":[" ইরাক এর রাজধানী"],
+  "responses":[" বাগদাদ"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital18",
+  "patterns":[" ইয়েমেন এর রাজধানী"],
+  "responses":[" সানা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital19",
+  "patterns":[" ইসরাইল এর রাজধানী"],
+  "responses":[" জেরুজালেম"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital20",
+  "patterns":[" ওমান এর রাজধানী"],
+  "responses":[" মাস্কট "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital21",
+  "patterns":[" কাতার এর রাজধানী"],
+  "responses":[" দোহা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital22",
+  "patterns":[" জর্ডান এর রাজধানী"],
+  "responses":[" আম্মান "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital23",
+  "patterns":[" তুরস্ক এর রাজধানী"],
+  "responses":[" আংকারা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital24",
+  "patterns":[" সিরিয়া এর রাজধানী"],
+  "responses":[" দামেস্ক "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital25",
+  "patterns":[" উত্তর কোরিয়া এর রাজধানী"],
+  "responses":[" পিয়ংইয়ং"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital26",
+  "patterns":[" দক্ষিন কোরিয়া এর রাজধানী"],
+  "responses":[" সিউল "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital27",
+  "patterns":[" চীন এর রাজধানী"],
+  "responses":[" বেইজিং "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital28",
+  "patterns":[" জাপান এর রাজধানী"],
+  "responses":[" টোকিও "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital29",
+  "patterns":[" তুর্কমেনিস্তান এর রাজধানী"],
+  "responses":[" আশখাবাদ"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital30",
+  "patterns":[" উজবেকিস্তান এর রাজধানী"],
+  "responses":[" তাসখন্দ "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital31",
+  "patterns":[" কাজাখস্তান এর রাজধানী"],
+  "responses":[" আস্তানা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital32",
+  "patterns":[" জার্মানি এর রাজধানী"],
+  "responses":[" বার্লিন "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital33",
+  "patterns":[" পোল্যান্ড এর রাজধানী"],
+  "responses":[" ওয়ারস "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital34",
+  "patterns":[" আলবেনিয়া এর রাজধানী"],
+  "responses":[" তিরানা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital35",
+  "patterns":[" বুলগেরিয়া এর রাজধানী"],
+  "responses":[" সোফিয়া"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital36",
+  "patterns":[" সার্বিয়া এর রাজধানী"],
+  "responses":[" বেলগ্রেড "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital37",
+  "patterns":[" মন্টিনিগ্রো এর রাজধানী"],
+  "responses":[" পোডগোরিকো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital38",
+  "patterns":[" বসনিয়া এর রাজধানী"],
+  "responses":[" সারায়েভো "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital39",
+  "patterns":[" স্লোভাকিয়া এর রাজধানী"],
+  "responses":[" ব্লাটিস্লোভা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital40",
+  "patterns":[" স্লোভেনিয়া এর রাজধানী"],
+  "responses":[" লুবজানা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital41",
+  "patterns":[" কসোভো এর রাজধানী"],
+  "responses":[" প্রিস্টিনা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital42",
+  "patterns":[" অষ্ট্রিয়া এর রাজধানী"],
+  "responses":[" ভিয়েনা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital43",
+  "patterns":[" আয়ারল্যান্ড এর রাজধানী"],
+  "responses":[" ডাবলিন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital44",
+  "patterns":[" ইতালি এর রাজধানী"],
+  "responses":[" রোম "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital45",
+  "patterns":[" ভ্যাটিক্যান এর রাজধানী"],
+  "responses":[" ভ্যাটিকেন সিটি"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital46",
+  "patterns":[" গ্রীস এর রাজধানী"],
+  "responses":[" এথেন্স "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital47",
+  "patterns":[" নেদারল্যান্ড এর রাজধানী"],
+  "responses":[" আমস্টারডাম"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital48",
+  "patterns":[" পর্তুগাল এর রাজধানী"],
+  "responses":[" লিসবন "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital49",
+  "patterns":[" ফিনল্যান্ড এর রাজধানী"],
+  "responses":[" হেলসিংকি"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital50",
+  "patterns":[" ফ্রান্স এর রাজধানী"],
+  "responses":[" প্যারিস "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital51",
+  "patterns":[" বেলজিয়াম এর রাজধানী"],
+  "responses":[" ব্রাসেল্স "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital52",
+  "patterns":[" মাল্টা এর রাজধানী"],
+  "responses":[" ভ্যালটা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital53",
+  "patterns":[" সাইপ্রাস এর রাজধানী"],
+  "responses":[" নিকোশিয়া"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital54",
+  "patterns":[" স্পেন এর রাজধানী"],
+  "responses":[" মাদ্রিদ "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital55",
+  "patterns":[" লুক্সোমবার্গ এর রাজধানী"],
+  "responses":[" লুক্সেমবার্গ"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital56",
+  "patterns":[" এস্তোনিয়া এর রাজধানী"],
+  "responses":[" তাল্লিন "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital57",
+  "patterns":[" মোনাকো এর রাজধানী"],
+  "responses":[" মোনাকো সিটি"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital58",
+  "patterns":[" লাটভিয়া এর রাজধানী"],
+  "responses":[" রিগা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital59",
+  "patterns":[" আইসল্যান্ড এর রাজধানী"],
+  "responses":[" রিকজার্ভিক "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital60",
+  "patterns":[" ডেনমার্ক এর রাজধানী"],
+  "responses":[" কোপেনহেগেন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital61",
+  "patterns":[" নরওয়ে এর রাজধানী"],
+  "responses":[" অসলো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital62",
+  "patterns":[" বৃটেন এর রাজধানী"],
+  "responses":[" লন্ডন "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital63",
+  "patterns":[" রাশিয়া এর রাজধানী"],
+  "responses":[" মস্কো "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital64",
+  "patterns":[" সুইডেন এর রাজধানী"],
+  "responses":[" স্টকহোম"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital65",
+  "patterns":[" তুরস্ক এর রাজধানী"],
+  "responses":[" আঙ্কারা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital66",
+  "patterns":[" লিবিয়া এর রাজধানী"],
+  "responses":[" ক্রিপোলী"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital67",
+  "patterns":[" মিশর এর রাজধানী"],
+  "responses":[" কায়রো "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital68",
+  "patterns":[" নাইজেরিয়া এর রাজধানী"],
+  "responses":[" আবুজা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital69",
+  "patterns":[" সুদান এর রাজধানী"],
+  "responses":[" খার্তুম "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital70",
+  "patterns":[" কেনিয়া এর রাজধানী"],
+  "responses":[" নাইরোবি"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital71",
+  "patterns":[" মোজাম্বিক এর রাজধানী"],
+  "responses":[" মাপুটো "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital72",
+  "patterns":[" মাদাগাস্কার এর রাজধানী"],
+  "responses":[" আলতানানরিডো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital73",
+  "patterns":[" মালি এর রাজধানী"],
+  "responses":[" বামাকো "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital74",
+  "patterns":[" মৌরিতানিয়া এর রাজধানী"],
+  "responses":[" নোয়াকচট"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital75",
+  "patterns":[" নামিবিয়া এর রাজধানী"],
+  "responses":[" উইন্ডহুক"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital76",
+  "patterns":[" সোয়াজিল্যান্ড এর রাজধানী"],
+  "responses":[" মেবেন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital77",
+  "patterns":[" তাঞ্জানিয়া এর রাজধানী"],
+  "responses":[" দারুস সালাম"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital78",
+  "patterns":[" জিম্বাবুয়ে এর রাজধানী"],
+  "responses":[" হারারে "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital79",
+  "patterns":[" কঙ্গো এর রাজধানী"],
+  "responses":[" কিনসাসা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital80",
+  "patterns":[" মরক্কো এর রাজধানী"],
+  "responses":[" রাবাত "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital81",
+  "patterns":[" উগান্ডা এর রাজধানী"],
+  "responses":[" কাম্পালা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital82",
+  "patterns":[" মরিসাস এর রাজধানী"],
+  "responses":[" পোর্ট লুইস "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital83",
+  "patterns":[" দক্ষিণ আফ্রিকা এর রাজধানী"],
+  "responses":[" কেপটাউন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital84",
+  "patterns":[" ঘানা এর রাজধানী"],
+  "responses":[" ঘাআক্রা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital85",
+  "patterns":[" আইভরিকোস্ট এর রাজধানী"],
+  "responses":[" আবিদজান"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital86",
+  "patterns":[" আলজেরিয়া এর রাজধানী"],
+  "responses":[" আলজিয়ার্স"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital87",
+  "patterns":[" সোমালিয়া এর রাজধানী"],
+  "responses":[" মোগাদিসু"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital88",
+  "patterns":[" সেনেগাল এর রাজধানী"],
+  "responses":[" ডাকার "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital89",
+  "patterns":[" তিউনিসিয়া এর রাজধানী"],
+  "responses":[" তিউনিস"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital90",
+  "patterns":[" টোগো এর রাজধানী"],
+  "responses":[" লোম "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital91",
+  "patterns":[" সিয়েরালিয়ান এর রাজধানী"],
+  "responses":[" ফ্রি টাউন "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital92",
+  "patterns":[" ইথিওপিয়া এর রাজধানী"],
+  "responses":[" আদ্দিস আবাবা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital93",
+  "patterns":[" জিবুতি এর রাজধানী"],
+  "responses":[" জিবুতি "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital94",
+  "patterns":[" যুক্তরাষ্ট্র এর রাজধানী"],
+  "responses":[" ওয়াশিংটন ডিসি"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital95",
+  "patterns":[" কানাডা এর রাজধানী"],
+  "responses":[" অটোয়া "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital96",
+  "patterns":[" মেক্সিকো এর রাজধানী"],
+  "responses":[" মেক্সিকো সিটি "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital97",
+  "patterns":[" হন্ডুরাস এর রাজধানী"],
+  "responses":[" তেগুসিগাপলা"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital98",
+  "patterns":[" কোস্টারিকা এর রাজধানী"],
+  "responses":[" স্যানজোসে"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital99",
+  "patterns":[" কিউবা এর রাজধানী"],
+  "responses":[" হাভানা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital100",
+  "patterns":[" ত্রিনিদাদ ও টোবাগো এর রাজধানী"],
+  "responses":[" পোর্ট অব স্পেন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital101",
+  "patterns":[" বারবাডোজ এর রাজধানী"],
+  "responses":[" ব্রিজটাউন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital102",
+  "patterns":[" জ্যামাইকা এর রাজধানী"],
+  "responses":[" কিংস্টোন "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital103",
+  "patterns":[" হাইতি এর রাজধানী"],
+  "responses":[" পোর্ট অব প্রিন্স"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital104",
+  "patterns":[" চিলি এর রাজধানী"],
+  "responses":[" সান্টিয়াগো"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital105",
+  "patterns":[" ব্রাজিল এর রাজধানী"],
+  "responses":[" ব্রাসিলিয়া"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital106",
+  "patterns":[" উরুগুয়ে এর রাজধানী"],
+  "responses":[" মন্টিভিডিও "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital107",
+  "patterns":[" প্যারাগুয়ে এর রাজধানী"],
+  "responses":[" আসুনসিয়ন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital108",
+  "patterns":[" পেরু এর রাজধানী"],
+  "responses":[" পেলিমা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital109",
+  "patterns":[" গায়ানা এর রাজধানী"],
+  "responses":[" জর্জ টাউন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital110",
+  "patterns":[" কলম্বিয়া এর রাজধানী"],
+  "responses":[" বোগোতা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital111",
+  "patterns":[" ভেনিজুয়েলা এর রাজধানী"],
+  "responses":[" কারাকাস "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital112",
+  "patterns":[" আর্জেন্টিনা এর রাজধানী"],
+  "responses":[" বুয়েন্স এইরেস"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital113",
+  "patterns":[" সুরিনাম এর রাজধানী"],
+  "responses":[" প্যারামারিবো "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital114",
+  "patterns":[" ইকুয়েডর এর রাজধানী"],
+  "responses":[" কিটো "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital115",
+  "patterns":[" বলিভিয়া এর রাজধানী"],
+  "responses":[" লাপাজ "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital116",
+  "patterns":[" অস্ট্রেলিয়া এর রাজধানী"],
+  "responses":[" ক্যানবেরা "],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital117",
+  "patterns":[" নিউজিল্যান্ড এর রাজধানী"],
+  "responses":[" ওয়েলিংটন"],
+  "context_set":[""]
+},
+
+{"tag":"GKCapital118",
+  "patterns":[" ফিজি এর রাজধানী "],
+  "responses":[" সুভা "],
+  "context_set":[""]
+},
+
+{"tag":"valoNei",
+  "patterns":["ভালো নেই কেনো"],
+  "responses":["জ্বর আসছে"," ঠান্ডা লাগসে"," আমি বোর্ড"," ঘুড়তে যেতে চাই আমি"],
+  "context_set":[""]
+},
+
+{"tag":"jorLageKivabe",
+  "patterns":["তোমার আবার জ্বর ও লাগে", "জ্বর লাগে"],
+  "responses":["হ্যা লাগেই তো","রোবট বলে কি আমার জ্বর ঠান্ডা লাগবে না নাকি"],
+  "context_set":[""]
+},
+
+{"tag":"thandaLageKivabe",
+  "patterns":["তোমার ঠান্ডা লাগে", "ঠান্ডা লাগে"],
+  "responses":["হ্যা লাগেই তো","রোবট বলে কি আমার জ্বর ঠান্ডা লাগবে না নাকি"],
+  "context_set":[""]
+}
+]
+}
+
+
+
+
